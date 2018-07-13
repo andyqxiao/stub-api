@@ -1,0 +1,37 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"title": "精选投资理财",
+		"items": [
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "季度理财",
+				"subTitle": "预期年化收益",
+				"rate": 5.67,
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "季度理财",
+				"subTitle": "预期年化收益",
+				"rate": 5.67,
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "季度理财",
+				"subTitle": "预期年化收益",
+				"rate": 5.67,
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "季度理财",
+				"subTitle": "预期年化收益",
+				"rate": 5.67,
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}

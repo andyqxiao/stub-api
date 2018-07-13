@@ -1,0 +1,29 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"title": "理财资讯",
+		"items": [
+			{
+				"title": "恒生中国",
+				"date": "2018-06-09",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"title": "恒生中国",
+				"date": "2018-06-09",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"title": "恒生中国",
+				"date": "2018-06-09",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"title": "恒生中国",
+				"date": "2018-06-09",
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}

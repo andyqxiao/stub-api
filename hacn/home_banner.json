@@ -1,0 +1,30 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"autorun": false,
+		"title": "",
+		"items": [
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_5x2_01.jpg",
+				"title": "恒生中国",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_5x2_02.jpg",
+				"title": "恒生中国",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_5x2_03.jpg",
+				"title": "恒生中国",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_5x2_04.jpg",
+				"title": "恒生中国",
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}

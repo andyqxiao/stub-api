@@ -1,0 +1,23 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"items": [
+			{
+				"prefix": "重要消息",
+				"title": "恒生中国APP首页已开发完成",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"prefix": "重要消息",
+				"title": "恒生银行个人贷款网上申请页面已完成",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"prefix": "重要消息",
+				"title": "恒生中国团队加油",
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"title": "其它产品服务",
+		"items": [
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_02.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_01.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_9x7_02.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}

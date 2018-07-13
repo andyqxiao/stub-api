@@ -1,0 +1,32 @@
+{
+	"code": "0000",
+	"message": "OK",
+	"data": {
+		"title": "精选VIP服务",
+		"items": [
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_1x1_01.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_1x1_02.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_1x1_01.jpg",
+				"title": "恒生中国",
+				"description": "",
+				"link": "https://www.hangseng.com.cn"
+			},
+			{
+				"image": "https://gitee.com/andyqxiao/StubAPI/raw/master/hacn/images/image_1x1_02.jpg",
+				"title": "恒生中国",
+				"link": "https://www.hangseng.com.cn"
+			}
+		]
+	}
+}
